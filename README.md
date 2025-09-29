@@ -94,9 +94,9 @@ Embora já existam ferramentas de divulgação de ações (redes sociais, aplica
 | Falta de engajamento dos stakeholders| Negócio  | Baixo         | Alto    | 3   | Reuniões periódicas de alinhamento e feedback                             | Decisões assumidas pela equipe de desenvolvimento com base em requisitos já validados |
 | Problemas de infraestrutura (deploy)| Técnico   | Médio         | Médio   | 4   | Uso de ambientes de nuvem gratuitos confiáveis e testes prévios de deploy | Migração rápida para outro provedor ou uso de ambiente local temporário     |
 
-- Observações:
-A escala usada foi qualitativa (Baixo = 1, Médio = 2, Alto = 3).
-O P*I é o produto da probabilidade pelo impacto (ex.: Médio = 2, Alto = 3 → 2×3 = 6).
+- **Observações:**
+  - A escala usada foi qualitativa (Baixo = 1, Médio = 2, Alto = 3).
+  - O P*I é o produto da probabilidade pelo impacto (ex.: Médio = 2, Alto = 3 → 2×3 = 6).
 
 ---
 
