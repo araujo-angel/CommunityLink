@@ -136,5 +136,8 @@ Baseado no calendário acadêmico:
 - 1 dev frontend (Angular).  
 - 1 QA.  
 ---
-## Documento de visão original da aplicação
-- CommunityLink
+
+## Artefados documentais da aplicação
+
+- [Documento de Visão](./Documentacao/DocumentoDeVisao.md)
+- [Requisitos de Software](./Documentacao/RequisitosDeSoftware.md)
