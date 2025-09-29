@@ -87,12 +87,16 @@ Embora já existam ferramentas de divulgação de ações (redes sociais, aplica
 
 ## 8. Análise dos Riscos  
 
-| Risco                          | Probabilidade | Impacto | Mitigação |
-|--------------------------------|---------------|---------|-----------|
-| Atraso na entrega das sprints | Médio         | Alto    | Planejamento detalhado + acompanhamento semanal. |
-| Dificuldade técnica (Spring/Angular) | Médio | Médio | Treinamentos rápidos, divisão equilibrada de tarefas. |
-| Falta de engajamento dos stakeholders | Baixo | Alto | Reuniões periódicas de alinhamento e feedback. |
-| Problemas de infraestrutura (deploy) | Médio | Médio | Uso de ambientes de nuvem gratuitos confiáveis e testes prévios. |
+| Risco                               | Tipo      | Probabilidade | Impacto | P*I | Mitigação                                                                 | Contingência                                                                 |
+|-------------------------------------|-----------|---------------|---------|-----|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Atraso na entrega das sprints       | Projeto   | Médio         | Alto    | 6   | Planejamento detalhado e acompanhamento semanal                           | Repriorizar backlog e reduzir escopo de funcionalidades menos críticas      |
+| Dificuldade técnica (Spring/Angular)| Técnico   | Médio         | Médio   | 4   | Treinamentos rápidos e divisão equilibrada de tarefas                     | Substituição temporária por soluções mais simples ou apoio externo          |
+| Falta de engajamento dos stakeholders| Negócio  | Baixo         | Alto    | 3   | Reuniões periódicas de alinhamento e feedback                             | Decisões assumidas pela equipe de desenvolvimento com base em requisitos já validados |
+| Problemas de infraestrutura (deploy)| Técnico   | Médio         | Médio   | 4   | Uso de ambientes de nuvem gratuitos confiáveis e testes prévios de deploy | Migração rápida para outro provedor ou uso de ambiente local temporário     |
+
+- Observações:
+A escala usada foi qualitativa (Baixo = 1, Médio = 2, Alto = 3).
+O P*I é o produto da probabilidade pelo impacto (ex.: Médio = 2, Alto = 3 → 2×3 = 6).
 
 ---
 
