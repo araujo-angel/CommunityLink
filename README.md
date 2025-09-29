@@ -135,7 +135,6 @@ Baseado no calendário acadêmico:
 - 1 dev backend (Spring Boot).  
 - 1 dev frontend (Angular).  
 - 1 QA.  
-
---
+---
 ## Documento de visão original da aplicação
 - CommunityLink
