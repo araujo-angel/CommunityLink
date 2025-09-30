@@ -41,7 +41,7 @@ Desenvolver uma **plataforma web de voluntariado comunitário** com propriedades
   - **Usuários finais**: voluntários e organizadores, envolvidos nos testes de usabilidade.  
 
 - **Integração com outros softwares**:  
-  - Nesta versão inicial **não haverá integrações externas** (ex.: CRMs, APIs de terceiros).  
+  - Nesta versão inicial **não haverá integrações externas** (ex.: CRMs, APIs de terceiros, exceto para notificações).  
   - O foco está em entregar um **MVP funcional web**.  
 
 ---
