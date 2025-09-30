@@ -24,7 +24,7 @@ Desenvolver uma **plataforma web de voluntariado comunitário** com propriedades
 **Módulo Ações Comunitárias**  
 - Cadastro e edição de ações (apenas para organizadores).  
 - Listagem de ações disponíveis.  
-- Busca e filtros por localização/interesse.  
+- Busca e filtros por interesse.  
 - Inscrição em ações (para voluntários).  
 
 **Módulo Comunicação Básica**  
