@@ -118,22 +118,22 @@ Embora já existam ferramentas de divulgação de ações (redes sociais, aplica
 ## 11. Estimativas  
 
 ### Tempo (Cronograma)  
-Baseado no calendário acadêmico:  
+Baseado no calendário acadêmico e priorizando valor ao cliente:  
 
 - **Sprint 1 (30/out – 16/nov)**  
-  - Configuração do ambiente.  
-  - Cadastro/Login de usuários.  
-  - Estrutura inicial do backend e frontend.  
+  - Configuração inicial do ambiente (backend e frontend).  
+  - Cadastro/Login de usuários (base para acesso ao sistema).  
+  - Cadastro e listagem de ações comunitárias.  
 
 - **Sprint 2 (17/nov – 14/dez)**  
-  - Cadastro e listagem de ações comunitárias.  
-  - Inscrição de voluntários.  
-  - Interface com filtros de busca.  
+  - Inscrição de voluntários em ações.  
+  - Interface com filtros de busca para facilitar navegação.  
+  - Estrutura inicial de notificações (confirmação de inscrição).  
 
 - **Sprint 3 (15/dez – 04/fev)**  
-  - Módulo de notificações básicas.  
-  - Lista de ações inscritas por usuário.  
-  - Ajustes finais, testes e deploy.  
+  - Lista de ações inscritas por usuário (área do voluntário).  
+  - Notificações básicas adicionais.  
+  - Ajustes finais, testes e deploy em ambiente de produção.   
 
 ### Equipe  
 - 1 dev backend (Spring Boot).  
